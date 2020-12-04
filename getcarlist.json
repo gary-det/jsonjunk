@@ -1,0 +1,772 @@
+{
+    "list": [
+        {
+            "id": "fe9e6f19-3210-4872-bd90-0276b50ae9c3",
+            "name": "Alfa Romeo Giulia",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12258",
+            "car_subcode": "6280",
+            "car_subname": "Alfa Romeo Giulia Super (A)",
+            "price": "175000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Ventilated disc",
+                    "Brakes (Front)": "Ventilated disc"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
+                    "Engine capacity": "1,995 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "Alfa Link design with vertical rod link",
+                    "Suspension (Front)": "Double wishbone with semi-virtual steering axle"
+                },
+                "Performance": {
+                    "Power": "148kW (198 bhp)",
+                    "Torque": "330 Nm",
+                    "Top speed": "235 km/h",
+                    "Acceleration": "6.6s (0-100 km/h)",
+                    "CO2 emission": "138 g/km (As tested by LTA)",
+                    "Fuel consumption": "16.6 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,820 mm",
+                    "Kerb weight": "1,429 kg",
+                    "Vehicle type": "Sports",
+                    "Fuel tank capacity": "58 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "480 L",
+                    "Dimensions (L x W x H)": "(4643 x 2024 x 1436) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "Rear-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "6"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "Yes",
+                    "Navigation system": "No",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "17\"",
+                    "Headlights": "Bi-xenon",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "No"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "Yes",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "No",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "Twin chrome exhaust tip",
+                    "1": "Auto start stop engine",
+                    "2": "Alfa Romeo D.N.A system",
+                    "3": "Autonomous Emergency Brake with Pedestrian Detection",
+                    "4": "Anti-Slip Regulator",
+                    "5": "Brake Assistance System",
+                    "6": "Blind spot monitoring",
+                    "7": "Forward Collision Warning",
+                    "8": "Integrated Braking System",
+                    "9": "Lane departure warning",
+                    "10": "Rear cross-path detection"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "Sports"
+            ]
+        },
+        {
+            "id": "b07488d1-44b1-4952-92d4-8415e975e182",
+            "name": "Alfa Romeo Giulia",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12258",
+            "car_subcode": "6282",
+            "car_subname": "Alfa Romeo Giulia Veloce (A)",
+            "price": "212000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Ventilated disc",
+                    "Brakes (Front)": "Ventilated disc"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
+                    "Engine capacity": "1,995 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "Alfa Link design with vertical rod link",
+                    "Suspension (Front)": "Double wishbone with semi-virtual steering axle"
+                },
+                "Performance": {
+                    "Power": "208kW (279 bhp)",
+                    "Torque": "400 Nm",
+                    "Top speed": "240 km/h",
+                    "Acceleration": "5.2s (0-100 km/h)",
+                    "CO2 emission": "152 g/km (As tested by LTA)",
+                    "Fuel consumption": "16.3 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,820 mm",
+                    "Kerb weight": "1,530 kg",
+                    "Vehicle type": "Sports",
+                    "Fuel tank capacity": "58 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "480 L",
+                    "Dimensions (L x W x H)": "(4643 x 2024 x 1450) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "Rear-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Remarks": {
+                    "0": "- 8.8\" central colour display"
+                },
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "6"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "Yes",
+                    "Navigation system": "No",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "19\"",
+                    "Headlights": "Bi-xenon",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "No"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "Yes",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "No",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "Twin chrome exhaust tip",
+                    "1": "Auto start stop engine",
+                    "2": "Alfa Romeo D.N.A system",
+                    "3": "Autonomous Emergency Brake with Pedestrian Detection",
+                    "4": "Anti-Slip Regulator",
+                    "5": "Brake Assistance System",
+                    "6": "Blind spot monitoring",
+                    "7": "Forward Collision Warning",
+                    "8": "Integrated Braking System",
+                    "9": "Lane departure warning",
+                    "10": "Rear cross-path detection",
+                    "11": "Sports front and rear bumpers",
+                    "12": "Brembo braking system with Black callipers",
+                    "13": "Alfa Synaptic Dynamic Control Suspension",
+                    "14": "Infra-red reflective windshield",
+                    "15": "Sport seats",
+                    "16": "Aluminium sports pedal set and foot rest",
+                    "17": "Aluminium door sill scuff plate",
+                    "18": "Apple Carplay",
+                    "19": "Android auto",
+                    "20": "Limited Slip Differential,"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "Sports"
+            ]
+        },
+        {
+            "id": "da123417-9a23-4f60-a0b0-2f75da417375",
+            "name": "Alfa Romeo Stelvio",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12392",
+            "car_subcode": "6695",
+            "car_subname": "Alfa Romeo Stelvio Super (A)",
+            "price": "212000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Ventilated disc",
+                    "Brakes (Front)": "Ventilated disc"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
+                    "Engine capacity": "1,995 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "AlfaLink with 4-and-a-half links",
+                    "Suspension (Front)": "AlfaLink double-wishbone with semi-virtual steering axle"
+                },
+                "Performance": {
+                    "Power": "148kW (198 bhp)",
+                    "Torque": "330 Nm",
+                    "Top speed": "215 km/h",
+                    "Acceleration": "7.2s (0-100 km/h)",
+                    "CO2 emission": "unknown",
+                    "Fuel consumption": "14.3 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,818 mm",
+                    "Kerb weight": "1,660 kg",
+                    "Vehicle type": "SUV",
+                    "Fuel tank capacity": "64 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "525 L",
+                    "Dimensions (L x W x H)": "(4687 x 1903 x 1632) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "All-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Remarks": {
+                    "0": "- 8.8\" central colour display"
+                },
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "6"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "Yes",
+                    "Navigation system": "Yes",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "19\"",
+                    "Headlights": "Bi-xenon",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "Yes"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "No",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "Yes",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "Dual tailpipes",
+                    "1": "Twin chrome exhaust tip",
+                    "2": "Headlight washers",
+                    "3": "Apple Carplay",
+                    "4": "Android auto",
+                    "5": "Alfa Romeo D.N.A system",
+                    "6": "Hill Descent Control",
+                    "7": "Autonomous Emergency Brake with Pedestrian Detection",
+                    "8": "Anti-Slip Regulator",
+                    "9": "Brake Assistance System",
+                    "10": "Blind spot monitoring",
+                    "11": "Forward Collision Warning",
+                    "12": "Integrated Braking System",
+                    "13": "Lane departure warning",
+                    "14": "Rear cross-path detection"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "SUV"
+            ]
+        },
+        {
+            "id": "c2e433c5-7cda-4975-ab8a-10bf4590761b",
+            "name": "Alfa Romeo Stelvio",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12392",
+            "car_subcode": "6906",
+            "car_subname": "Alfa Romeo Stelvio Quadrifoglio (A)",
+            "price": "369000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Ventilated disc",
+                    "Brakes (Front)": "Ventilated disc"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "V6 Bi-Turbo",
+                    "Engine capacity": "2,891 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "AlfaLink with 4-and-a-half links",
+                    "Suspension (Front)": "AlfaLink double-wishbone with semi-virtual steering axle"
+                },
+                "Performance": {
+                    "Power": "375kW (503 bhp)",
+                    "Torque": "600 Nm",
+                    "Top speed": "283 km/h",
+                    "Acceleration": "3.8s (0-100 km/h)",
+                    "CO2 emission": "210 g/km (Manufacturer specs)",
+                    "Fuel consumption": "11.1 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,818 mm",
+                    "Kerb weight": "1,830 kg",
+                    "Vehicle type": "SUV",
+                    "Fuel tank capacity": "64 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "525 L",
+                    "Dimensions (L x W x H)": "(4702 x 1955 x 1681) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "All-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Remarks": {
+                    "0": "- 8.8\" central colour display\n- Carbon fibre inserts on dashboard, central tunnel & door panel"
+                },
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "6"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "Yes",
+                    "Navigation system": "Yes",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "20\"",
+                    "Headlights": "Bi-xenon",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "Yes"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "No",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "Yes",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "Quadrifoglio 4-way chrome exhaust tip",
+                    "1": "Apple Carplay",
+                    "2": "Android auto",
+                    "3": "Alfa Romeo D.N.A. System (with Race mode)",
+                    "4": "Autonomous Emergency Brake with Pedestrian Detection",
+                    "5": "Anti-Slip Regulator",
+                    "6": "Brake Assistance System",
+                    "7": "Blind Spot Monitoring",
+                    "8": "Forward Collision Warning",
+                    "9": "Integrated Braking System",
+                    "10": "Lane Departure Warning",
+                    "11": "Rear Cross-path Detection",
+                    "12": "Limited Slip Differential",
+                    "13": "Infra-red reflective windshield",
+                    "14": "Aluminium sports pedal set and foot rest",
+                    "15": "Aluminium door sill scuff plate",
+                    "16": "Brembo braking system",
+                    "17": "Quadrifoglio sporty leather/Alcantara seat",
+                    "18": "Quadrifoglio front and rear bumpers with Aero diffuser",
+                    "19": "Quadrifoglio badge",
+                    "20": "Alfa Cylinders' Efficient Management",
+                    "21": "Alfa Chassis Domain Control",
+                    "22": "Alfa Active Torque Vectoring",
+                    "23": "Alfa Synaptic Dynamic Control Suspension"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "SUV"
+            ]
+        },
+        {
+            "id": "7f2cb7c5-bc80-4784-bdaf-e2ad8200d426",
+            "name": "Alfa Romeo Giulia",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12258",
+            "car_subcode": "6283",
+            "car_subname": "Alfa Romeo Giulia Quadrifoglio (A)",
+            "price": "339000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Ventilated disc",
+                    "Brakes (Front)": "Ventilated disc"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "V6 Bi-Turbo",
+                    "Engine capacity": "2,891 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "Alfa Link design with vertical rod link",
+                    "Suspension (Front)": "Double wishbone with semi-virtual steering axle"
+                },
+                "Performance": {
+                    "Power": "375kW (503 bhp)",
+                    "Torque": "600 Nm",
+                    "Top speed": "307 km/h",
+                    "Acceleration": "3.9s (0-100 km/h)",
+                    "CO2 emission": "189 g/km (As tested by LTA)",
+                    "Fuel consumption": "12.1 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,820 mm",
+                    "Kerb weight": "1,620 kg",
+                    "Vehicle type": "Sports",
+                    "Fuel tank capacity": "58 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "480 L",
+                    "Dimensions (L x W x H)": "(4643 x 2024 x 1426) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "Rear-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Remarks": {
+                    "0": "- 8.8\" central colour display\n- Carbon fibre inserts on dashboard, central tunnel & door panel"
+                },
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "6"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "Yes",
+                    "Navigation system": "No",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "19\"",
+                    "Headlights": "Bi-xenon",
+                    "Front fog lamps": "Yes",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "No"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "Yes",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "No",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "Quadrifoglio 4-way chrome exhaust tip",
+                    "1": "Auto start stop engine",
+                    "2": "Alfa Romeo D.N.A. System (with Race mode)",
+                    "3": "Autonomous Emergency Brake with Pedestrian Detection",
+                    "4": "Anti-Slip Regulator",
+                    "5": "Brake Assistance System",
+                    "6": "Blind Spot Monitoring",
+                    "7": "Forward Collision Warning",
+                    "8": "Integrated Braking System",
+                    "9": "Lane Departure Warning",
+                    "10": "Rear Cross-path Detection",
+                    "11": "Quadrifoglio front and rear bumpers with Aero diffuser",
+                    "12": "Brembo braking system with Black callipers",
+                    "13": "Alfa Synaptic Dynamic Control Suspension",
+                    "14": "Infra-red reflective windshield",
+                    "15": "Quadrifoglio sporty leather/Alcantara seat",
+                    "16": "Aluminium sports pedal set and foot rest",
+                    "17": "Aluminium door sill scuff plate",
+                    "18": "Apple Carplay",
+                    "19": "Android auto",
+                    "20": "Limited Slip Differential",
+                    "21": "Quadrifoglio badge",
+                    "22": "Carbon fibre spoiler",
+                    "23": "Alfa Cylinders' Efficient Management",
+                    "24": "Alfa Active Aero Splitter",
+                    "25": "Alfa Chassis Domain Control",
+                    "26": "Alfa Active Torque Vectoring"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "Sports"
+            ]
+        },
+        {
+            "id": "932f477d-fb50-4e7e-912a-c14b27f9f063",
+            "name": "Alfa Romeo Stelvio",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12313",
+            "car_subcode": "6457",
+            "car_subname": "Alfa Romeo Stelvio Super (A)<span>(PI)</span>",
+            "price": "212000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Unknown",
+                    "Brakes (Front)": "Unknown"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
+                    "Engine capacity": "1,995 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "Unknown",
+                    "Suspension (Front)": "Unknown"
+                },
+                "Performance": {
+                    "Power": "145kW (194 bhp)",
+                    "Torque": "330 Nm",
+                    "Top speed": "215 km/h",
+                    "Acceleration": "7.2s (0-100 km/h)",
+                    "CO2 emission": "161 g/km (Manufacturer specs)",
+                    "Fuel consumption": "14.3 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,818 mm",
+                    "Kerb weight": "1,660 kg",
+                    "Vehicle type": "SUV",
+                    "Fuel tank capacity": "64 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "525 L",
+                    "Dimensions (L x W x H)": "(4657 x 1903 x 1688) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "Rear-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "unknown"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "No",
+                    "Navigation system": "Yes",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "",
+                    "Headlights": "LED",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "Yes"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "No",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "Yes",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "-"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "SUV"
+            ]
+        },
+        {
+            "id": "aed2d213-7af1-4a5d-a8b6-c3138c1a6dcb",
+            "name": "Alfa Romeo Stelvio",
+            "maker_name": "Alfa Romeo",
+            "car_code": "12313",
+            "car_subcode": "6458",
+            "car_subname": "Alfa Romeo Stelvio Milano Edizione (A)<span>(PI)</span>",
+            "price": "233000",
+            "specs": {
+                "Brakes": {
+                    "Brakes (Rear)": "Unknown",
+                    "Brakes (Front)": "Unknown"
+                },
+                "Engine": {
+                    "Fuel type": "Petrol",
+                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
+                    "Engine capacity": "1,995 cc"
+                },
+                "Suspension": {
+                    "Suspension (Rear)": "Unknown",
+                    "Suspension (Front)": "Unknown"
+                },
+                "Performance": {
+                    "Power": "203kW (272 bhp)",
+                    "Torque": "400 Nm",
+                    "Top speed": "230 km/h",
+                    "Acceleration": "5.7s (0-100 km/h)",
+                    "CO2 emission": "161 g/km (Manufacturer specs)",
+                    "Fuel consumption": "14.2 km/L"
+                },
+                "Measurements": {
+                    "Wheelbase": "2,818 mm",
+                    "Kerb weight": "1,660 kg",
+                    "Vehicle type": "SUV",
+                    "Fuel tank capacity": "64 L",
+                    "Min turning radius": "unknown",
+                    "Boot/Cargo Capacity": "525 L",
+                    "Dimensions (L x W x H)": "(4657 x 1903 x 1688) mm"
+                },
+                "Misc technical data": {
+                    "Drive type": "Rear-wheel drive",
+                    "Transmission": "8-speed (A)"
+                }
+            },
+            "features": {
+                "Safety features": {
+                    "Traction control": "Yes",
+                    "Number of airbags": "unknown"
+                },
+                "Driver's features": {
+                    "Cruise control": "Yes",
+                    "Auto headlights": "Yes",
+                    "Paddle shifters": "No",
+                    "Navigation system": "Yes",
+                    "Bluetooth Interface": "Yes",
+                    "Rain sensing wipers": "Yes",
+                    "Keyless engine start": "Yes",
+                    "Electric park brake button": "Yes",
+                    "Multi-Function steering wheel": "Yes",
+                    "Electrical retractable side mirrors": "Yes"
+                },
+                "Exterior features": {
+                    "Rims": "",
+                    "Headlights": "LED",
+                    "Front fog lamps": "No",
+                    "Daytime running lights": "LED",
+                    "Sunroof/Moonroof/Panoramic roof": "Unknown"
+                },
+                "Interior features": {
+                    "Rear aircon": "Yes",
+                    "Leather seats": "Yes",
+                    "Reverse camera": "Yes",
+                    "Multi-zone aircon": "Yes",
+                    "Driver's memory seat": "Yes",
+                    "Knockdown rear seats": "Yes",
+                    "Driver's electric seat": "Yes",
+                    "Leather steering wheel": "Yes",
+                    "Passenger's memory seat": "No",
+                    "Passenger's electric seat": "Yes"
+                },
+                "Security features": {
+                    "Smart key": "Yes",
+                    "Electric tailgate": "Yes",
+                    "Remote boot release": "Yes"
+                },
+                "Additional features": {
+                    "0": "-"
+                }
+            },
+            "car_types": [
+                "Passenger",
+                "SUV"
+            ]
+        }
+    ],
+    "pagination": {
+        "total": 7,
+        "current": 0,
+        "pageSize": 100
+    }
+}
