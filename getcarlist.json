@@ -105,13 +105,13 @@
             ]
         },
         {
-            "id": "b07488d1-44b1-4952-92d4-8415e975e182",
-            "name": "Alfa Romeo Giulia",
-            "maker_name": "Alfa Romeo",
-            "car_code": "12258",
-            "car_subcode": "6282",
-            "car_subname": "Alfa Romeo Giulia Veloce (A)",
-            "price": "212000",
+            "id": "d44d8707-383a-41c1-9cd8-d50d3c5e9cf6",
+            "name": "Porsche 911",
+            "maker_name": "Porsche",
+            "car_code": "12455",
+            "car_subcode": "7642",
+            "car_subname": "Porsche 911 Turbo S PDK 3.8 (A)",
+            "price": "924488(w/o COE)",
             "specs": {
                 "Brakes": {
                     "Brakes (Rear)": "Ventilated disc",
@@ -119,38 +119,38 @@
                 },
                 "Engine": {
                     "Fuel type": "Petrol",
-                    "Engine type": "4-cylinder in-line 16-valve Turbocharged",
-                    "Engine capacity": "1,995 cc"
+                    "Engine type": "Flat 6 VTG Twin-Turbocharged",
+                    "Engine capacity": "3,745 cc"
                 },
                 "Suspension": {
-                    "Suspension (Rear)": "Alfa Link design with vertical rod link",
-                    "Suspension (Front)": "Double wishbone with semi-virtual steering axle"
+                    "Suspension (Rear)": "Multi-link",
+                    "Suspension (Front)": "McPherson strut"
                 },
                 "Performance": {
-                    "Power": "208kW (279 bhp)",
-                    "Torque": "400 Nm",
-                    "Top speed": "240 km/h",
-                    "Acceleration": "5.2s (0-100 km/h)",
-                    "CO2 emission": "152 g/km (As tested by LTA)",
-                    "Fuel consumption": "16.3 km/L"
+                    "Power": "485kW (650 bhp)",
+                    "Torque": "800 Nm",
+                    "Top speed": "330 km/h",
+                    "Acceleration": "2.7s (0-100 km/h)",
+                    "CO2 emission": "unknown",
+                    "Fuel consumption": "unknown"
                 },
                 "Measurements": {
-                    "Wheelbase": "2,820 mm",
-                    "Kerb weight": "1,530 kg",
+                    "Wheelbase": "2,450 mm",
+                    "Kerb weight": "1,640 kg",
                     "Vehicle type": "Sports",
-                    "Fuel tank capacity": "58 L",
+                    "Fuel tank capacity": "67 L",
                     "Min turning radius": "unknown",
-                    "Boot/Cargo Capacity": "480 L",
-                    "Dimensions (L x W x H)": "(4643 x 2024 x 1450) mm"
+                    "Boot/Cargo Capacity": "264 L",
+                    "Dimensions (L x W x H)": "(4535 x 1900 x 1303) mm"
                 },
                 "Misc technical data": {
-                    "Drive type": "Rear-wheel drive",
-                    "Transmission": "8-speed (A)"
+                    "Drive type": "All-wheel drive",
+                    "Transmission": "8-speed (A) PDK"
                 }
             },
             "features": {
                 "Remarks": {
-                    "0": "- 8.8\" central colour display"
+                    "0": "- Porsche Active Aerodynamics (PAA) with auto-deploying front spoiler, active cooling air flaps and wing element\n- LED-Matrix headlights including daytime running lights with 4-point LED spotlights and Porsche Dynamic Light System Plus (PDLS Plus)\n- Porsche Ceramic Composite Brake (PCCB), 10-piston brake caliper front, 4-piston brake caliper rear\n- Flat 6 Twin-Turbocharged Rear-Mounted Engine\n- 20\" Front wheel and 21\" Rear wheel\n- Adaptive Sports seats Plus featuring electric adjustment of all seat functions incl. seat side bolsters (18-ways)\n- Instrument cluster with central rev counter and two 7-inch TFT displays, 10.9-inch Center display with illuminated 'turbo S' logo\n- Porsche Communication Management (PCM) including navigation"
                 },
                 "Safety features": {
                     "Traction control": "Yes",
@@ -160,7 +160,7 @@
                     "Cruise control": "Yes",
                     "Auto headlights": "Yes",
                     "Paddle shifters": "Yes",
-                    "Navigation system": "No",
+                    "Navigation system": "Yes",
                     "Bluetooth Interface": "Yes",
                     "Rain sensing wipers": "Yes",
                     "Keyless engine start": "Yes",
@@ -169,14 +169,14 @@
                     "Electrical retractable side mirrors": "Yes"
                 },
                 "Exterior features": {
-                    "Rims": "19\"",
-                    "Headlights": "Bi-xenon",
+                    "Rims": "20\"",
+                    "Headlights": "LED",
                     "Front fog lamps": "No",
                     "Daytime running lights": "LED",
                     "Sunroof/Moonroof/Panoramic roof": "No"
                 },
                 "Interior features": {
-                    "Rear aircon": "Yes",
+                    "Rear aircon": "No",
                     "Leather seats": "Yes",
                     "Reverse camera": "Yes",
                     "Multi-zone aircon": "Yes",
@@ -184,7 +184,7 @@
                     "Knockdown rear seats": "Yes",
                     "Driver's electric seat": "Yes",
                     "Leather steering wheel": "Yes",
-                    "Passenger's memory seat": "Yes",
+                    "Passenger's memory seat": "No",
                     "Passenger's electric seat": "Yes"
                 },
                 "Security features": {
@@ -193,34 +193,24 @@
                     "Remote boot release": "Yes"
                 },
                 "Additional features": {
-                    "0": "Twin chrome exhaust tip",
-                    "1": "Auto start stop engine",
-                    "2": "Alfa Romeo D.N.A system",
-                    "3": "Autonomous Emergency Brake with Pedestrian Detection",
-                    "4": "Anti-Slip Regulator",
-                    "5": "Brake Assistance System",
-                    "6": "Blind spot monitoring",
-                    "7": "Forward Collision Warning",
-                    "8": "Integrated Braking System",
-                    "9": "Lane departure warning",
-                    "10": "Rear cross-path detection",
-                    "11": "Sports front and rear bumpers",
-                    "12": "Brembo braking system with Black callipers",
-                    "13": "Alfa Synaptic Dynamic Control Suspension",
-                    "14": "Infra-red reflective windshield",
-                    "15": "Sport seats",
-                    "16": "Aluminium sports pedal set and foot rest",
-                    "17": "Aluminium door sill scuff plate",
-                    "18": "Apple Carplay",
-                    "19": "Android auto",
-                    "20": "Limited Slip Differential,"
+                    "0": "2 dual-tube tailpipe trims in 911 Turbo design (stainless steel high gloss black)",
+                    "1": "Sport seats",
+                    "2": "Retractable door handles",
+                    "3": "Porsche Active Suspension Management (PASM)",
+                    "4": "Porsche Torque Vectoring Plus (PTV Plus)",
+                    "5": "Porsche Dynamic Chassis Control (PDCC)",
+                    "6": "Sport Chrono package incl. mode switch and clock with distinguishable dial",
+                    "7": "Porsche Ceramic Composite Brake",
+                    "8": "Auto start stop engine",
+                    "9": "Additional front luggage compartment volume of 128L",
+                    "10": "BOSE Surround Sound-System with 12 loudspeakers incl. subwoofer/12 amplifier channels/with a total output of 570 watts"
                 }
             },
             "car_types": [
                 "Passenger",
                 "Sports"
             ]
-        },
+        }
         {
             "id": "da123417-9a23-4f60-a0b0-2f75da417375",
             "name": "Alfa Romeo Stelvio",
