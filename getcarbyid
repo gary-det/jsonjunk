@@ -1,0 +1,93 @@
+{
+    "id": "54dec360-0078-42eb-83fc-08c910899701",
+    "name": "Ford Ranger Raptor",
+    "maker_name": "Ford",
+    "car_code": "12590",
+    "car_subcode": "7290",
+    "car_subname": "Ford Ranger Raptor 2.0 Double Cab (A)<span>(PI)</span>",
+    "price": "181000",
+    "specs": {
+        "Brakes": {
+            "Brakes (Rear)": "Unknown",
+            "Brakes (Front)": "Unknown"
+        },
+        "Engine": {
+            "Fuel type": "Diesel (Euro VI)",
+            "Engine type": "Bi-turbo EcoBlue",
+            "Engine capacity": "1,995 cc"
+        },
+        "Suspension": {
+            "Suspension (Rear)": "Unknown",
+            "Suspension (Front)": "Unknown"
+        },
+        "Performance": {
+            "Power": "157kW (211 bhp)",
+            "Torque": "500 Nm",
+            "Top speed": "180 km/h",
+            "Acceleration": "10s (0-100 km/h)",
+            "CO2 emission": "unknown",
+            "Fuel consumption": "13 km/L"
+        },
+        "Measurements": {
+            "Wheelbase": "3,220 mm",
+            "Kerb weight": "2,510 kg",
+            "Vehicle type": "Commercial",
+            "Fuel tank capacity": "unknown",
+            "Min turning radius": "unknown",
+            "Boot/Cargo Capacity": "unknown",
+            "Dimensions (L x W x H)": "(5363 x 2180 x 1873) mm"
+        },
+        "Misc technical data": {
+            "Drive type": "All-wheel drive (Selectable)",
+            "Transmission": "10-speed (A)"
+        }
+    },
+    "features": {
+        "Safety features": {
+            "Traction control": "Yes",
+            "Number of airbags": "7"
+        },
+        "Driver's features": {
+            "Cruise control": "Yes",
+            "Auto headlights": "Yes",
+            "Paddle shifters": "Yes",
+            "Navigation system": "Unknown",
+            "Bluetooth Interface": "Yes",
+            "Rain sensing wipers": "Yes",
+            "Keyless engine start": "Yes",
+            "Electric park brake button": "No",
+            "Multi-Function steering wheel": "Yes",
+            "Electrical retractable side mirrors": "No"
+        },
+        "Exterior features": {
+            "Rims": "17\"",
+            "Headlights": "LED",
+            "Front fog lamps": "Yes",
+            "Daytime running lights": "LED",
+            "Sunroof/Moonroof/Panoramic roof": "No"
+        },
+        "Interior features": {
+            "Rear aircon": "No",
+            "Leather seats": "Yes",
+            "Reverse camera": "Yes",
+            "Multi-zone aircon": "Yes",
+            "Driver's memory seat": "No",
+            "Knockdown rear seats": "No",
+            "Driver's electric seat": "Yes",
+            "Leather steering wheel": "Yes",
+            "Passenger's memory seat": "No",
+            "Passenger's electric seat": "Yes"
+        },
+        "Security features": {
+            "Smart key": "Yes",
+            "Electric tailgate": "No",
+            "Remote boot release": "No"
+        },
+        "Additional features": {
+            "0": "-"
+        }
+    },
+    "car_types": [
+        "Commercial"
+    ]
+}
