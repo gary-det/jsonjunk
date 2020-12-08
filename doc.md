@@ -21,7 +21,7 @@ POST:  http://{url}/api/v1/car/getCarByBrand
   "car_name": "", 
   "displacement": [1600,1999], 
   "price": [100000,199999], 
-  "vehicle_type": "Sports", 
+  "vehicle_type": ["Sports","Luxury Sedan"], 
   "fuel_type": "Petrol-Electric" 
 } 
 ```
@@ -33,7 +33,7 @@ POST:  http://{url}/api/v1/car/getCarByBrand
 |current         |Page number       | int; default 1  | No       | 1 
 |displacement    |Car capacity(cc)  | int array       | No       | 1L-1.6L = [1000, 1599] 
 |price           |Car price         | int array       | No       | 10k-50k = [10000,49999]
-|vehicle_type    |Car type          | string          | No       | 1 of the below: <br>Sports<br>Stationwagon<br>Hatchback<br>Luxury Sedan<br>Commercial<br>SUV<br>MPV<br>Sedan
+|vehicle_type    |Car type          | string array    | No       | 1 or multilple the below: <br>Sports<br>Stationwagon<br>Hatchback<br>Luxury Sedan<br>Commercial<br>SUV<br>MPV<br>Sedan
 |fuel_type       |Fuel type         | string          | No       | 1 of the below: <br>Petrol-Electric<br>Petrol<br>Electric<br>Diesel<br>
 
 
