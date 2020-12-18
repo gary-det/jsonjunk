@@ -46,3 +46,42 @@ GET:  http://{url}/api/v1/car/{id}
 
 ### Response
 https://github.com/gary-det/jsonjunk/blob/main/getcarbyid.json 
+
+## Register User
+### Request
+POST:  http://{url}/api/v1/pub/register
+```json
+{
+  "user_name":"baseuser3",
+  "password":"e10adc3949ba59abbe56e057f20f883e",
+  "email":"baseuser3@gmail.com",
+  "provider":"",
+  "provider_id":""
+} 
+```
+
+| Params         | Desc             | Type            |Required  |Sample             
+| -------------- |:----------------:| ---------------| --------| ------------------
+|user_name       |username          | string         | Yes      | 
+|password        |md5 encrypted pwd | string         | Yes       | 
+|email           |email             | string         | Yes       |
+|provider        |google/fb etc     | string         | No       | 
+|provider_id     |provuderuid       | string         | No       | 
+ 
+### Response
+#### Success
+```json
+{
+    "id": "127066736972271616"
+}
+```
+#### Failed
+```json
+{
+    "error": {
+        "code": 400,
+        "message": "Username existed"
+    }
+} 
+```
+
