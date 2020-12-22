@@ -8,6 +8,9 @@
 ###### [End Point](#end-point)
 ###### [Get Car List](#get-car-list)
 ###### [Get Car by ID](#get-car-by-id)
+###### [Register User](#register-user)
+###### [Forget Password](#forget-password)
+###### [Update Password](#update-password)
   
 # End Point
 
@@ -83,5 +86,80 @@ POST:  http://{url}/api/v1/pub/register
         "message": "Username existed"
     }
 } 
+```
+## Forget Password
+### Request
+POST:  http://{url}/api/v1/pub/login/reset-pass
+```json
+{
+  "captcha_code": "7421",
+  "captcha_id": "vASdoADvyZ6asacVn88m",
+  "user_name": "baseuser3",
+  "email": "baseuser3@gmail.com"
+}
+```
+
+| Params         | Desc             | Type            |Required  |Sample             
+| -------------- |:----------------:| ---------------| --------| ------------------
+|captcha_code       |          | string         | Yes      | 
+|captcha_id        | | string         | Yes       | 
+|user_name           |             | string         | Yes       |
+|email        |     | string         | Yes       | 
+
+ 
+### Response
+#### Success
+```json
+{
+    "access_token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDg2MjUzODIsImlhdCI6MTYwODYxODE4MiwibmJmIjoxNjA4NjE4MTgyLCJzdWIiOiIxMjcwMDIzNjU5OTA1MzkyNjQifQ.QfEpK9oWemqg_5qb50jvmXGq8VvsCxXh4PSJU6jpx5oy1s-Aejao3GUQpGDKKzqpCDKcyv8kZvEmxVAxMH-gow",
+    "token_type": "Bearer",
+    "expires_at": 1608625382
+}
+```
+#### Failed
+```json
+{
+    "error": {
+        "code": 500,
+        "message": "服务器发生错误"
+    }
+}
+```
+
+## Update Password
+### Request
+PUT:  http://{url}/api/v1/pub/current/password
+
+```json
+Bearer Token Required
+{
+    "old_password": "",
+    "new_password": "e10adc3949ba59abbe56e057f20f883e",
+    "confirm_password": "e10adc3949ba59abbe56e057f20f883e"
+}
+```
+
+| Params         | Desc             | Type            |Required  |Sample             
+| -------------- |:----------------:| ---------------| --------| ------------------
+|old_password    |only required when update from profile| string         | No      | 
+|new_password    |md5 encrypted| string         | Yes      | 
+|confirm_password | md5 encrypted | string         | Yes       | 
+
+ 
+### Response
+#### Success
+```json
+{
+    "status": "OK"
+}
+```
+#### Failed: Token expired
+```json
+{
+    "error": {
+        "code": 9999,
+        "message": "令牌失效"
+    }
+}
 ```
 
