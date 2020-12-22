@@ -5,12 +5,12 @@
   * Added filter: type displacement(cc), price, vehicle_type, fuel_type 
   
 # Quick Link
-###### [End Point](#end-point)
-###### [Get Car List](#get-car-list)
-###### [Get Car by ID](#get-car-by-id)
-###### [Register User](#register-user)
-###### [Forget Password](#forget-password)
-###### [Update Password](#update-password)
+[End Point](#end-point)
+[Get Car List](#get-car-list)
+[Get Car by ID](#get-car-by-id)
+[Register User](#register-user)
+[Forget Password](#forget-password)
+[Update Password](#update-password)
   
 # End Point
 
