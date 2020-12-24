@@ -16,7 +16,7 @@
 
 ## Get Car list
 ### Request
-POST:  http://{url}/api/v1/car/getCarByBrand 
+POST:  http://{url}/api/v1/car/getCarLists 
 <br>*empty {} param will return top 100 cars*
 ```json
 { 
